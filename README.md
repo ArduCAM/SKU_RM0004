@@ -12,12 +12,7 @@ git clone https://github.com/UCTRONICS/SKU_RM0004.git
 cd SKU_RM0004
 make
 ```
-## Run 
-```
-./display
-```
 ## Add automatic start script
-**Open the rc.local file**
 ```bash
 ./deployment_service.sh   
 ```
